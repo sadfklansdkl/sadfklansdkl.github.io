@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sadfklansdkl.github.io/issue-notes/sitemap.xml
